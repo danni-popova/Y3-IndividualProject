@@ -1,5 +1,5 @@
 # Y3-IndividualProject
-he aim of this project is to investigate existing natural sounding speech synthesis techniques and apply them to computer-synthesised singing. Computer generated speech is something that's made its way into commercial products already and yet applying the same principles to music has not been attempted yet. The goal of this project is to train a neural network using the millions of available audio tracks, extracting the vocals from them and generating sining using pre-defined lyrics.  
+The aim of this project is to investigate existing natural sounding speech synthesis techniques and apply them to computer-synthesised singing. Computer generated speech is something that's made its way into commercial products already and yet applying the same principles to music has not been attempted yet. The goal of this project is to train a neural network using the millions of available audio tracks, extracting the vocals from them and generating sining using pre-defined lyrics.  
 
 The main stages can be outlined as such - separating vocals from music tracks and synthesising voice from musical vocals.  
 
